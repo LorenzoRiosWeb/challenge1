@@ -80,7 +80,8 @@
     display: inline-block;
     margin-left: 20px;
   }
-  
+  /* clear determines if a property is cleared from and element or not.
+  https://developer.mozilla.org/en-US/docs/Web/CSS/clear */
   .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,7 +140,8 @@
     margin: 10px auto;
     max-width: 150px;
   }
-  
+  /* height determines the heighet of the border are in this code
+  https://developer.mozilla.org/en-US/docs/Web/CSS/height */
   .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -166,7 +168,8 @@
     background-color: #0072bb;
     color: #ffffff;
   }
-  
+  /* max-height determines the max height of any el
+  */
   .search-engine-optimization img {
     max-height: 200px;
   }
@@ -178,7 +181,7 @@
   .social-media-marketing img {
     max-height: 200px;
   }
-  
+  /*margin sets the margin area between the bottom,right,left, or top of an element*/
   .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
