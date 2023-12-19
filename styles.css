@@ -64,7 +64,7 @@
     background-size: cover;
     background-position: center;
   }
-  
+  /* float left and right will either float the image to the left of the screen or to the right*/
   .float-left {
     float: left;
     margin-right: 25px;
